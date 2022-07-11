@@ -1,0 +1,26 @@
+    {
+        "_id": "62cbdaa7bc50263b913e5cbb",
+        "title": "REST",
+        "content": "REST is short for REpresentational State Transfer. It's an architectural style for designing APIs."
+    },
+    {
+        "_id": "62cbdb8abc50263b913e5cbd",
+        "title": "API",
+        "content": "API stands for Application Programming Interface. It is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer."
+    },
+    {
+        "_id": "62cbdbacbc50263b913e5cbe",
+        "title": "Bootstrap",
+        "content": "This is a framework developed by Twitter that contains pre-made front-end templates for web design"
+    },
+    {
+        "_id": "62cbdbc6bc50263b913e5cbf",
+        "title": "DOM",
+        "content": "The Document Object Model is like an API for interacting with our HTML"
+    },
+    {
+        "_id": "62cbe3826bf423dcd23632fc",
+        "title": "Jack Bauer",
+        "content": "Jack Bauer once stepped into quick sand.",
+        "__v": 0
+    }
